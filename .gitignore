@@ -47,3 +47,6 @@ docker-compose.yml.bak
 # Operating System specific
 .DS_Store
 Thumbs.db
+
+# Ignore Kaggle API credentials
+.kaggle/
