@@ -1,9 +1,15 @@
+# This is a requirements file for a Python project that uses Flask, pandas, scikit-learn, and other libraries.
+# Install the required packages using pip
 Flask
 pandas
 scikit-learn
 gunicorn
 joblib
 numpy
-requests
 matplotlib
 seaborn
+
+
+# Downloading the dataset
+# You can download the dataset from Kaggle using the Kaggle API.
+kaggle
